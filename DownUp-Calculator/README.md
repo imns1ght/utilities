@@ -2,6 +2,8 @@
 
 Stimulates the required time for download/upload of data.
 
+![Screenshot](screenshot.png)
+
 ## Compile
 
 ```bash
