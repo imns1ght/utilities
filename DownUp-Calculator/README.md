@@ -1,6 +1,6 @@
 # Download/Upload Time Calculator
 
-Stimulates the required time for download/upload of data.
+Stimulates the required time to download/upload data.
 
 ![Screenshot](screenshot.png)
 
